@@ -8,7 +8,7 @@
       <link href="/2023/05/24/markdown/"/>
       <url>/2023/05/24/markdown/</url>
       
-        <content type="html"><![CDATA[        <h3 id="标题："   >          <a href="#标题：" class="heading-link"><i class="fas fa-link"></i></a><a href="#标题：" class="headerlink" title="标题："></a>标题：</h3>              <h1 id="标题"   >          <a href="#标题" class="heading-link"><i class="fas fa-link"></i></a><a href="#标题" class="headerlink" title="#: 标题"></a><code>#</code>: 标题</h1>              <h2 id="标题-1"   >          <a href="#标题-1" class="heading-link"><i class="fas fa-link"></i></a><a href="#标题-1" class="headerlink" title="##: 标题"></a><code>##</code>: 标题</h2>              <h3 id="标题-2"   >          <a href="#标题-2" class="heading-link"><i class="fas fa-link"></i></a><a href="#标题-2" class="headerlink" title="###: 标题"></a><code>###</code>: 标题</h3>      ]]></content>
+        <content type="html"><![CDATA[        <h3 id="可以直接看这个：markdown教程"   >          <a href="#可以直接看这个：markdown教程" class="heading-link"><i class="fas fa-link"></i></a><a href="#可以直接看这个：markdown教程" class="headerlink" title="可以直接看这个：markdown教程"></a>可以直接看这个：<span class="exturl"><a class="exturl__link"   href="https://markdown.com.cn/" >markdown教程</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></h3>              <h2 id="1-标题"   >          <a href="#1-标题" class="heading-link"><i class="fas fa-link"></i></a><a href="#1-标题" class="headerlink" title="1.标题"></a>1.标题</h2>              <h1 id="标题"   >          <a href="#标题" class="heading-link"><i class="fas fa-link"></i></a><a href="#标题" class="headerlink" title="#: 标题"></a><code>#</code>: 标题</h1>              <h2 id="标题-1"   >          <a href="#标题-1" class="heading-link"><i class="fas fa-link"></i></a><a href="#标题-1" class="headerlink" title="##: 标题"></a><code>##</code>: 标题</h2>              <h3 id="标题-2"   >          <a href="#标题-2" class="heading-link"><i class="fas fa-link"></i></a><a href="#标题-2" class="headerlink" title="###: 标题"></a><code>###</code>: 标题</h3>              <h2 id="2-换行"   >          <a href="#2-换行" class="heading-link"><i class="fas fa-link"></i></a><a href="#2-换行" class="headerlink" title="2.换行"></a>2.换行</h2>      <p>后面敲俩空格就行</p>        <h2 id="3-强调"   >          <a href="#3-强调" class="heading-link"><i class="fas fa-link"></i></a><a href="#3-强调" class="headerlink" title="3.强调"></a>3.强调</h2>      <p><code>**</code><strong>粗体</strong><code>**</code><br><code>__</code><strong>粗体</strong><code>__</code><br><code>*</code> <em>斜体</em> <code>*</code><br><code>_</code> <em>斜体</em> <code>_</code></p>        <h2 id="4-引用"   >          <a href="#4-引用" class="heading-link"><i class="fas fa-link"></i></a><a href="#4-引用" class="headerlink" title="4.引用"></a>4.引用</h2>      <blockquote><p><code>&gt;</code>引用</p><blockquote><p><code>&gt;&gt;</code>再引用</p></blockquote></blockquote>        <h2 id="5-列表"   >          <a href="#5-列表" class="heading-link"><i class="fas fa-link"></i></a><a href="#5-列表" class="headerlink" title="5.列表"></a>5.列表</h2>      <ol><li><code>1. </code></li><li><code>2. </code></li></ol><ul><li><code>-</code></li><li><code>-</code></li></ul><ul><li><code>+</code></li><li><code>+</code></li></ul><ul><li><code>*</code></li><li><code>*</code></li></ul>        <h2 id="6-代码"   >          <a href="#6-代码" class="heading-link"><i class="fas fa-link"></i></a><a href="#6-代码" class="headerlink" title="6.代码"></a>6.代码</h2>      <p><code>`代码`</code></p><figure class="highlight bash"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">```</span><br><span class="line">代码</span><br><span class="line">````（3个`）</span><br></pre></td></tr></table></div></figure>]]></content>
       
       
       <categories>
@@ -105,9 +105,9 @@
       
         <tags>
             
-            <tag> 简历 </tag>
-            
             <tag> 重要 </tag>
+            
+            <tag> 简历 </tag>
             
         </tags>
       
@@ -233,11 +233,11 @@
             
             <tag> 学习 </tag>
             
-            <tag> 基础 </tag>
+            <tag> 前端 </tag>
             
             <tag> 笔记 </tag>
             
-            <tag> 前端 </tag>
+            <tag> 基础 </tag>
             
         </tags>
       
@@ -264,13 +264,13 @@
       
         <tags>
             
-            <tag> Git </tag>
-            
             <tag> 学习 </tag>
+            
+            <tag> 笔记 </tag>
             
             <tag> 基础 </tag>
             
-            <tag> 笔记 </tag>
+            <tag> Git </tag>
             
         </tags>
       
