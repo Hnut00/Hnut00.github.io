@@ -8,7 +8,7 @@
       <link href="/2023/05/24/markdown/"/>
       <url>/2023/05/24/markdown/</url>
       
-        <content type="html"><![CDATA[        <h3 id="缩进"   >          <a href="#缩进" class="heading-link"><i class="fas fa-link"></i></a><a href="#缩进" class="headerlink" title="缩进"></a>缩进</h3>      ]]></content>
+        <content type="html"><![CDATA[        <h3 id="标题："   >          <a href="#标题：" class="heading-link"><i class="fas fa-link"></i></a><a href="#标题：" class="headerlink" title="标题："></a>标题：</h3>      <p><code>#</code>: # 标题<br><code>##</code>: ## 标题<br><code>###</code>: ### 标题</p>]]></content>
       
       
       <categories>
@@ -233,11 +233,11 @@
             
             <tag> 学习 </tag>
             
-            <tag> 前端 </tag>
+            <tag> 基础 </tag>
             
             <tag> 笔记 </tag>
             
-            <tag> 基础 </tag>
+            <tag> 前端 </tag>
             
         </tags>
       
@@ -264,13 +264,13 @@
       
         <tags>
             
-            <tag> 学习 </tag>
+            <tag> Git </tag>
             
-            <tag> 笔记 </tag>
+            <tag> 学习 </tag>
             
             <tag> 基础 </tag>
             
-            <tag> Git </tag>
+            <tag> 笔记 </tag>
             
         </tags>
       
